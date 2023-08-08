@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<types>
+    <types>
+        <type>
+            <__types_id>scr_custom</__types_id>
+            <__types_title>Self Care Rituals</__types_title>
+            <wpcf-post-type>scr_custom</wpcf-post-type>
+            <labels>
+                <name>Self Care Rituals</name>
+                <singular_name>Self Care Ritual</singular_name>
+                <add_new>Add New</add_new>
+                <add_new_item>Add New %s</add_new_item>
+                <edit_item>Edit %s</edit_item>
+                <new_item>New %s</new_item>
+                <view_item>View %s</view_item>
+                <search_items>Search %s</search_items>
+                <not_found>No %s found</not_found>
+                <not_found_in_trash>No %s found in Trash</not_found_in_trash>
+                <parent_item_colon>Parent %s</parent_item_colon>
+                <all_items>%s</all_items>
+            </labels>
+            <slug>scr_custom</slug>
+            <description></description>
+            <public>public</public>
+            <menu_position></menu_position>
+            <menu_icon></menu_icon>
+            <taxonomies>
+                <scr_category>1</scr_category>
+            </taxonomies>
+            <supports>
+                <title>1</title>
+                <author>1</author>
+                <excerpt>1</excerpt>
+                <custom-fields>1</custom-fields>
+            </supports>
+            <rewrite>
+                <enabled>1</enabled>
+                <custom>custom</custom>
+                <slug>scr_custom</slug>
+            </rewrite>
+            <show_in_menu>1</show_in_menu>
+            <show_in_menu_page></show_in_menu_page>
+            <show_ui>1</show_ui>
+            <exclude_from_search>1</exclude_from_search>
+            <hierarchical>1</hierarchical>
+            <can_export>1</can_export>
+            <query_var_enabled>1</query_var_enabled>
+            <query_var></query_var>
+            <permalink_epmask>EP_PERMALINK</permalink_epmask>
+            <id>scr_custom</id>
+            <hash>d9203a6a8f20f8728ded2ccf5e8bac55</hash>
+            <checksum>d9203a6a8f20f8728ded2ccf5e8bac55</checksum>
+        </type>
+        <type>
+            <__types_id>scr_template</__types_id>
+            <__types_title>SCR Templates</__types_title>
+            <wpcf-post-type>scr_template</wpcf-post-type>
+            <labels>
+                <name>SCR Templates</name>
+                <singular_name>SCR Template</singular_name>
+                <add_new>Add New</add_new>
+                <add_new_item>Add New %s</add_new_item>
+                <edit_item>Edit %s</edit_item>
+                <new_item>New %s</new_item>
+                <view_item>View %s</view_item>
+                <search_items>Search %s</search_items>
+                <not_found>No %s found</not_found>
+                <not_found_in_trash>No %s found in Trash</not_found_in_trash>
+                <parent_item_colon>Parent %s</parent_item_colon>
+                <all_items>%s</all_items>
+            </labels>
+            <slug>scr_template</slug>
+            <description></description>
+            <public>public</public>
+            <menu_position></menu_position>
+            <menu_icon></menu_icon>
+            <taxonomies>
+                <scr_category>1</scr_category>
+            </taxonomies>
+            <supports>
+                <title>1</title>
+                <author>1</author>
+                <excerpt>1</excerpt>
+                <custom-fields>1</custom-fields>
+            </supports>
+            <rewrite>
+                <enabled>1</enabled>
+                <custom>normal</custom>
+                <slug></slug>
+                <with_front>1</with_front>
+                <feeds>1</feeds>
+            </rewrite>
+            <show_in_menu>1</show_in_menu>
+            <show_in_menu_page></show_in_menu_page>
+            <show_ui>1</show_ui>
+            <publicly_queryable>1</publicly_queryable>
+            <exclude_from_search>1</exclude_from_search>
+            <can_export>1</can_export>
+            <query_var_enabled>1</query_var_enabled>
+            <query_var></query_var>
+            <permalink_epmask>EP_PERMALINK</permalink_epmask>
+            <id>scr_template</id>
+            <hash>c988ae30ffd48c6ecf7edbfa5fe85c79</hash>
+            <checksum>c988ae30ffd48c6ecf7edbfa5fe85c79</checksum>
+        </type>
+        <type>
+            <__types_id>journal_entry</__types_id>
+            <__types_title>Journal Entries</__types_title>
+            <wpcf-post-type>journal_entry</wpcf-post-type>
+            <labels>
+                <name>Journal Entries</name>
+                <singular_name>Journal Entry</singular_name>
+                <add_new>Add New</add_new>
+                <add_new_item>Add New %s</add_new_item>
+                <edit_item>Edit %s</edit_item>
+                <new_item>New %s</new_item>
+                <view_item>View %s</view_item>
+                <search_items>Search %s</search_items>
+                <not_found>No %s found</not_found>
+                <not_found_in_trash>No %s found in Trash</not_found_in_trash>
+                <parent_item_colon>Parent %s</parent_item_colon>
+                <all_items>%s</all_items>
+            </labels>
+            <slug>journal_entry</slug>
+            <description></description>
+            <public>public</public>
+            <menu_position></menu_position>
+            <menu_icon></menu_icon>
+            <supports>
+                <title>1</title>
+                <revisions>1</revisions>
+                <author>1</author>
+                <excerpt>1</excerpt>
+                <custom-fields>1</custom-fields>
+            </supports>
+            <rewrite>
+                <enabled>1</enabled>
+                <custom>normal</custom>
+                <slug></slug>
+                <with_front>1</with_front>
+            </rewrite>
+            <show_in_menu>1</show_in_menu>
+            <show_in_menu_page></show_in_menu_page>
+            <show_ui>1</show_ui>
+            <exclude_from_search>1</exclude_from_search>
+            <can_export>1</can_export>
+            <query_var_enabled>1</query_var_enabled>
+            <query_var></query_var>
+            <permalink_epmask>EP_PERMALINK</permalink_epmask>
+            <id>journal_entry</id>
+            <hash>62b79121632bc549a7d96ac33929228c</hash>
+            <checksum>62b79121632bc549a7d96ac33929228c</checksum>
+        </type>
+        <type>
+            <__types_id>tracked_ritual</__types_id>
+            <__types_title>Tracked Rituals</__types_title>
+            <wpcf-post-type>tracked_ritual</wpcf-post-type>
+            <labels>
+                <name>Tracked Rituals</name>
+                <singular_name>Tracked Ritual</singular_name>
+                <add_new>Add New</add_new>
+                <add_new_item>Add New %s</add_new_item>
+                <edit_item>Edit %s</edit_item>
+                <new_item>New %s</new_item>
+                <view_item>View %s</view_item>
+                <search_items>Search %s</search_items>
+                <not_found>No %s found</not_found>
+                <not_found_in_trash>No %s found in Trash</not_found_in_trash>
+                <parent_item_colon>Parent %s</parent_item_colon>
+                <all_items>%s</all_items>
+            </labels>
+            <slug>tracked_ritual</slug>
+            <description></description>
+            <public>public</public>
+            <menu_position></menu_position>
+            <menu_icon></menu_icon>
+            <supports>
+                <title>1</title>
+                <author>1</author>
+                <excerpt>1</excerpt>
+                <custom-fields>1</custom-fields>
+                <post-formats>1</post-formats>
+            </supports>
+            <rewrite>
+                <enabled>1</enabled>
+                <custom>normal</custom>
+                <slug></slug>
+                <with_front>1</with_front>
+            </rewrite>
+            <show_in_menu>1</show_in_menu>
+            <show_in_menu_page></show_in_menu_page>
+            <show_ui>1</show_ui>
+            <exclude_from_search>1</exclude_from_search>
+            <can_export>1</can_export>
+            <query_var_enabled>1</query_var_enabled>
+            <query_var></query_var>
+            <permalink_epmask>EP_PERMALINK</permalink_epmask>
+            <id>tracked_ritual</id>
+            <hash>dd08930e177883718fb3aed1d00b6001</hash>
+            <checksum>dd08930e177883718fb3aed1d00b6001</checksum>
+        </type>
+    </types>
+    <taxonomies>
+        <taxonomy>
+            <wpcf-tax>scr_category</wpcf-tax>
+            <labels>
+                <name>Categories</name>
+                <singular_name>Category</singular_name>
+                <search_items>Search %s</search_items>
+                <popular_items>Popular %s</popular_items>
+                <all_items>All %s</all_items>
+                <parent_item>Parent %s</parent_item>
+                <parent_item_colon>Parent %s:</parent_item_colon>
+                <edit_item>Edit %s</edit_item>
+                <update_item>Update %s</update_item>
+                <add_new_item>Add New %s</add_new_item>
+                <new_item_name>New %s Name</new_item_name>
+                <separate_items_with_commas>Separate %s with commas</separate_items_with_commas>
+                <add_or_remove_items>Add or remove %s</add_or_remove_items>
+                <choose_from_most_used>Choose from the most used %s</choose_from_most_used>
+                <menu_name>%s</menu_name>
+            </labels>
+            <slug>scr_category</slug>
+            <description></description>
+            <public>public</public>
+            <supports>
+                <scr_custom>1</scr_custom>
+                <scr_template>1</scr_template>
+            </supports>
+            <hierarchical>hierarchical</hierarchical>
+            <rewrite>
+                <slug></slug>
+            </rewrite>
+            <show_ui>1</show_ui>
+            <show_in_nav_menus>1</show_in_nav_menus>
+            <show_tagcloud>1</show_tagcloud>
+            <query_var_enabled>1</query_var_enabled>
+            <query_var></query_var>
+            <update_count_callback></update_count_callback>
+            <id>scr_category</id>
+            <__types_id>scr_category</__types_id>
+            <__types_title>Categories</__types_title>
+            <checksum>1f7365721cf6ebad7101c787fa9ff097</checksum>
+        </taxonomy>
+    </taxonomies>
+</types>
